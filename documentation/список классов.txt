@@ -1,0 +1,17 @@
+Список классов
+
+Item - продукт
+Cart - корзина
+User - пользователь
+Category ($id, $category)- категория
+Image - работа с картинками
+Archive - хранение проданных товаров
+Comment - комментарии
+===========================
+
+Database table
+
+categories 
+(id int
+ category varchar(64)
+)
